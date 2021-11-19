@@ -1,0 +1,6 @@
+framework module Pods_PureData {
+  umbrella header "Pods-PureData-umbrella.h"
+
+  export *
+  module * { export * }
+}
